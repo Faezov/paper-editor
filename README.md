@@ -96,4 +96,3 @@ MIT License
 
 Feel free to submit issues or pull requests. All suggestions welcome!
 
-```
