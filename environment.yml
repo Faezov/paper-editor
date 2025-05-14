@@ -1,0 +1,10 @@
+name: openai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python
+  - requests
+  - openai
+  - python-docx

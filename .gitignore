@@ -1,0 +1,5 @@
+# Ignore OpenAI API key
+config/open.key
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
