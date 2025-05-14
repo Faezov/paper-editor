@@ -1,4 +1,3 @@
-````markdown
 # 📝 paper-editor
 
 A lightweight tool for editing and refining scientific paper drafts using the OpenAI GPT API.  
@@ -100,9 +99,3 @@ Feel free to submit issues or pull requests. All suggestions welcome!
 ```
 
 ---
-
-Let me know if:
-- You want to add a Google Docs API integration mention
-- You’re using specific command-line options (like `--output`)
-- You want me to help create `rules.json` examples or a sample `gpt-edited.json` structure for the repo
-```
